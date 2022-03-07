@@ -26,10 +26,14 @@
 //   - bmw
 
 // Now, without manually typing the array:
-// 4.1 add 'ferrari' to the garagae
+// 4.1 add 'ferrari' to the garage
+
 // 4.2 remove Mercedes from the array
+
 // 4.3 replace the 2nd car in the array with 'lada'
+
 // 4.4 create an array with all of the cars in the garage capitalized
+
 // 4.5 find the volvo. pretend you don't know what the array looks like.
 
 // 5 Create an object called 'myself' with these properties and assign them your values.
@@ -40,7 +44,16 @@
 //   - favouriteAnimal
 
 // 5.1 Replace the favouriteAnimal with 'turtle'
+
 // 5.2 add an address property, which tracks your city, country and street name
+
 // 5.3 add a list of favouriteFoods to the object. Add your favourite foods to the list (duhhh!)
+
 // 5.3 remove the age property
+
 // 5.4 Have a snack. Set isHungry to false (even if you're not really hungry).
+
+// 5.5 Add a function to the object called 'eat'. It should take a food as an argument and return "Name ate food!"
+// That's a mouthful, so here's an example:
+// e.g. calling the eat function with a banana argument, in an object where the name is 'Nico' should return "Nico ate banana!"
+// e.g. calling the eat function with an apple argument, in an object where the name is 'Ilir' should return "Ilir ate apple!"

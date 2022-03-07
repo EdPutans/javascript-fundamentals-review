@@ -7,7 +7,7 @@
 // 2. Create a function called "add". It takes 2 numbers as an argument and returns its sum.
 
 // 3. Create a function called "subtractWithCheck". This time:
-// - It can expect any 2 arguments
+//  - It can expect any 2 arguments
 //  - It should return the difference of the 2 arguments if they are numbers
 //  - If one of the arguments is not a number, it should return "Yo dawg you can't subtract us!"
 
@@ -19,4 +19,7 @@
 //   - It should return the person's name and age as one single string.
 //   - The person's shape is { id: number, bornIn: number, name: string }
 
-// 6
+// 6. Lets get a little more advanced. Create a function called "getGreet" that takes a boolean (you can call it `shouldCapitalise`) and:
+//   - returns a function that greets the person with the given string.
+//   - if `shouldCapitalise` is true, it should greet the person with a capitalised name.
+// 6.1 Using this new function, say hello to yourself in uppercase, and console.log it
