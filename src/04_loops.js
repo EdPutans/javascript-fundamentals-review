@@ -28,7 +28,7 @@ const data = Object.freeze({
 // 1. Print out the name of each person in the data object.
 // 1.1 There are many ways to achieve the above. Try to think of another way.
 
-// 2. Count the toal number of hobbies
+// 2. Count the total number of hobbies
 
 // 3. Create a mutable copy of Visard and change his name to "Visard of Oz"
 
