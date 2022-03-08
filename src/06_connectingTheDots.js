@@ -5,7 +5,7 @@
 // You have a bunch of bank accounts:
 // Bank of America, with 500 EUR,
 // Bank of Tirana, with 1000 EUR,
-// Bank of England, with 69 EUR`,
+// Bank of England, with 69 EUR,
 // HSBC with 100 EUR,
 // Bank of Italy with 200 EUR.
 
@@ -22,7 +22,5 @@
 // 4.1 And subtract too.
 
 // 5. Each bank account has an account number. For this exercise, an account number is a 5 digit integer.
-// Find a way to add that information after you have already stored it.
-
-
+// Find a way to add that information into the existing shape.
 

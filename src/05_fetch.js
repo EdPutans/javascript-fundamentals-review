@@ -10,7 +10,6 @@ const NicosRepositories = `https://api.github.com/users/minimumviableperson/repo
 //  - only keep the .name property of each repository.
 //  - return all Nico's repo names as an array of strings.
 
-
 // 2. Create a JSON server. Add a /posts endpoint to it, which returns a list of posts.
 // A post is: {
 //   id: number,
@@ -19,5 +18,5 @@ const NicosRepositories = `https://api.github.com/users/minimumviableperson/repo
 // }
 // 2.1 Write a function called createPost that:
 // - takes a post as an argument
-// - makes a POST request to the JSON server.
-// - returns the newly created post from the response (it must contain the new post's id)
+// - save your post in the JSON server
+// - console.log the newly created post from the response (it must contain the new post's id);
