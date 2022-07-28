@@ -9,6 +9,7 @@
     "node": ""
   },
   "scripts": {
+    "dev": "npx vite",
     "start": "npx vite"
   },
   "dependencies": {},
